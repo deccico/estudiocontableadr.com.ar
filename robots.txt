@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://estudiocontableadr.com.ar/sitemap.xml
